@@ -1,0 +1,18 @@
+body{
+	color: #fffcfc;
+    background-color: #ce3737;
+    text-align: center;
+
+}
+h1,h2,h3{
+	color: 	#000000;
+	font-size: 28px;
+
+}
+
+section{
+	background-color: grey;
+	margin:2px bold black;
+	font-size: 18px;
+	padding-right: -80px;
+}
